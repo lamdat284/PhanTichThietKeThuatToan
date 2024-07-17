@@ -11,6 +11,7 @@ namespace Buoi02
         static void Main(string[] args)
         {
             int[] A = { 9, 8, 7, 2, 1, 4, 5, 6, 7, 12, 45 };
+            Console.WriteLine();
             Console.Write("=> Mang A: ");
             Common.PrintArray(A);
 
@@ -27,9 +28,14 @@ namespace Buoi02
                 Console.WriteLine("\t**Tim thay X tai vi tri " + kq);
             }
 
+
+            Console.WriteLine("\n\tThuat Toan MegreSort!!!");
+            MergeSort _mergeSort = new MergeSort();
+            _mergeSort.Merge_Sort(A);
+            Console.Write("\t**Mang A: ");
+            Common.PrintArray(A);
+
             Console.ReadKey();
-
-
 
         }
     }

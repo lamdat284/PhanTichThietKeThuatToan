@@ -27,7 +27,7 @@ namespace Buoi02
                 result[k++] = right[j++];
         }
 
-        public static void Merge_Sort(int[] array)
+        public void Merge_Sort(int[] array)
         {
             if (array.Length <= 1)
                 return;
