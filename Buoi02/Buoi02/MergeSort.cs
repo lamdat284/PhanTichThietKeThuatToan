@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Buoi02
 {
-    class Program
+    class MergeSort
     {
-        static void Main(string[] args)
-        {
-        }
+        
     }
 }
