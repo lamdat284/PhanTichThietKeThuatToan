@@ -19,13 +19,13 @@ namespace Buoi02
             BinarySearch _binarySearch = new BinarySearch();
             Console.Write("\t**Nhap so ban muon tim kiem trong mang: ");
             int x = int.Parse(Console.ReadLine());
-            int kq = _binarySearch.Binary(A, A.Length, x);
-            if(kq == -1)
+            int kq_BinarySearch = _binarySearch.Binary(A, A.Length, x);
+            if(kq_BinarySearch == -1)
             {
                 Console.WriteLine("\t**Khong tim thay X trong mang A!!!");
             }else
             {
-                Console.WriteLine("\t**Tim thay X tai vi tri " + kq);
+                Console.WriteLine("\t**Tim thay X tai vi tri " + kq_BinarySearch);
             }
 
 
@@ -34,6 +34,20 @@ namespace Buoi02
             _mergeSort.Merge_Sort(A);
             Console.Write("\t**Mang A: ");
             Common.PrintArray(A);
+
+
+            Console.WriteLine("\n\tMultiply Numbers!!!");
+            MultiplyNumbers _multiplyNumbers = new MultiplyNumbers();
+           
+            string a = "28042003";
+            string b = "19052003";
+            Console.WriteLine("\t**So a: "+ a);
+            Console.WriteLine("\t**So b: " + b);
+            string kq_MultiplyNumbers = _multiplyNumbers.Multiply(a,b);
+            Console.WriteLine("\t** " + a + " * " + b + "= " + kq_MultiplyNumbers);
+            
+
+            
 
             Console.ReadKey();
 
