@@ -31,6 +31,8 @@ namespace Buoi03.DisplayHelpers
             {
                 Console.WriteLine($"=> Khong tim thay {target} trong mang");
             }
+            Console.WriteLine("*********************************************************");
+
         }
     }
 }

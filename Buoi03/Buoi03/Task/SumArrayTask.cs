@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Buoi03.Task
 {
-    public static class SumArrayTasks
+    public class SumArrayTasks
     {
-        public static void Execute_SumTask()
+        public void Execute_SumTask()
         {
             SumArray sumArray = new SumArray();
             Console.WriteLine("\tTONG MANG TU 1 -> n");

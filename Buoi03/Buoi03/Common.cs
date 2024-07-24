@@ -39,5 +39,26 @@ namespace Buoi03
                 Console.Write(value + " ");
             }
         }
+        public static int[] GenerateRandomArray_nonSort(int size)
+        {
+            const int minValue = 1;
+            const int maxValue = 100;
+
+            if (size <= 0)
+            {
+                throw new ArgumentException("Kích thước của mảng phải lớn hơn 0.");
+            }
+
+            Random random = new Random();
+            int[] array = new int[size];
+
+            for (int i = 0; i < size; i++)
+            {
+                array[i] = random.Next(minValue, maxValue + 1);
+            }
+
+
+            return array;
+        }
     }
 }

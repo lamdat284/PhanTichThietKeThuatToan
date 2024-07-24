@@ -44,12 +44,15 @@
   <ItemGroup>
     <Compile Include="Core\BinarySearch.cs" />
     <Compile Include="Common.cs" />
+    <Compile Include="Core\QuickSort.cs" />
     <Compile Include="DisplayHelpers\BinarySearchDisplayHelper.cs" />
+    <Compile Include="DisplayHelpers\QuickSortDisplayHelper.cs" />
     <Compile Include="DisplayHelpers\SumArrayDisplayHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Core\SumArray.cs" />
     <Compile Include="Task\BinarySearchTask.cs" />
+    <Compile Include="Task\QuickSortTask.cs" />
     <Compile Include="Task\SumArrayTask.cs" />
   </ItemGroup>
   <ItemGroup>

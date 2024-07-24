@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Buoi03.Task
 {
-    public static class BinarySearchTasks
+    public class BinarySearchTasks
     {
-        public static void Execute_BinaryTask()
+        public void Execute_BinaryTask()
         {
             BinarySearch binarySearch = new BinarySearch();
 
@@ -18,13 +18,8 @@ namespace Buoi03.Task
             int soLuongPhanTu = int.Parse(Console.ReadLine());
 
             int[] array = Common.GenerateRandomArray(soLuongPhanTu);
-            Console.Write("**Mang A: ");
-            foreach (int value in array)
-            {
-                Console.Write(value + " ");
-            }
+            Common.DisplayArray(array);
             Console.WriteLine();
-
             Console.Write("**Nhap gia tri can tim: ");
             int x = int.Parse(Console.ReadLine());
 
