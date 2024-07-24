@@ -16,7 +16,7 @@ namespace Buoi03.Task
             QuickSort quickSort = new QuickSort();
             Console.WriteLine("\tQUICKSORT");
 
-            int[] array = { 2, 4, 1, 5, 12, 87, 45, 67 };
+            int[] array = { 12, 87, 45, 67 };
          
             QuickSortDisplayHelper.DisplayQuickSortResults(quickSort, array);
         }

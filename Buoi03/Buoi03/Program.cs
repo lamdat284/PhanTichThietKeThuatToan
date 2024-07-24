@@ -13,16 +13,14 @@ namespace Buoi03
         static void Main(string[] args)
         {
             SumArrayTasks _sumArrayTasks = new SumArrayTasks();
-           // _sumArrayTasks.Execute_SumTask();
+            _sumArrayTasks.Execute_SumTask();
 
             BinarySearchTasks _binarySearchTask = new BinarySearchTasks();
            _binarySearchTask.Execute_BinaryTask();
 
-
             QuickSortTask _quickSortTask = new QuickSortTask();
-            //_quickSortTask.Execute_QuickSortTask();
+            _quickSortTask.Execute_QuickSortTask();
             Console.ReadKey();
-            
            
         }
     }

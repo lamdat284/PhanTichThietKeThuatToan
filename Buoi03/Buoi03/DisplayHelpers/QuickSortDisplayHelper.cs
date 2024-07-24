@@ -12,7 +12,6 @@ namespace Buoi03.DisplayHelpers
         public static void DisplayQuickSortResults(QuickSort quickSort, int[] array)
         {
            
-
             Console.WriteLine("**Mang truoc khi sap xep!!!");
             Common.DisplayArray(array);
 
