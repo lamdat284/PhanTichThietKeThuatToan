@@ -42,9 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\BinarySearch.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="DisplayHelpers\BinarySearchDisplayHelper.cs" />
+    <Compile Include="DisplayHelpers\SumArrayDisplayHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SumArray.cs" />
+    <Compile Include="Core\SumArray.cs" />
+    <Compile Include="Task\BinarySearchTask.cs" />
+    <Compile Include="Task\SumArrayTask.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
