@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\bin\Debug\Buoi03.exe.config
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\bin\Debug\Buoi03.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\bin\Debug\Buoi03.pdb
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\obj\Debug\Buoi03.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\obj\Debug\Buoi03.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\obj\Debug\Buoi03.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi03\Buoi03\obj\Debug\Buoi03.pdb
