@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|d:\\hoc ki he 6.5\\phantichthietkethuattoan\\buoi02\\buoi02\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|solutionrelative:buoi02\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|d:\\hoc ki he 6.5\\phantichthietkethuattoan\\buoi02\\buoi02\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|solutionrelative:buoi02\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|d:\\hoc ki he 6.5\\phantichthietkethuattoan\\buoi02\\buoi02\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ABF30C-E0C6-4A1A-82E2-EAEC86EDA92E}|Buoi02\\Buoi02.csproj|solutionrelative:buoi02\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\App.config",
+              "RelativeDocumentMoniker": "Buoi02\\App.config",
+              "ToolTip": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\App.config",
+              "RelativeToolTip": "Buoi02\\App.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-24T00:31:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Buoi02\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Buoi02\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:31:29.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Progam.cs",
+              "DocumentMoniker": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\Progam.cs",
+              "RelativeDocumentMoniker": "Buoi02\\Progam.cs",
+              "ToolTip": "D:\\Hoc Ki He 6.5\\PhanTichThietKeThuatToan\\Buoi02\\Buoi02\\Progam.cs",
+              "RelativeToolTip": "Buoi02\\Progam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:30:29.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
