@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\bin\Debug\BaiToanBalo_CoSoLuong.exe.config
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\bin\Debug\BaiToanBalo_CoSoLuong.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\bin\Debug\BaiToanBalo_CoSoLuong.pdb
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\obj\Debug\BaiToanBalo_CoSoLuong.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\obj\Debug\BaiToanBalo_CoSoLuong.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\obj\Debug\BaiToanBalo_CoSoLuong.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBalo_CoSoLuong\obj\Debug\BaiToanBalo_CoSoLuong.pdb
