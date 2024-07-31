@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\bin\Debug\BaiToanBaLo.exe.config
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\bin\Debug\BaiToanBaLo.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\bin\Debug\BaiToanBaLo.pdb
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\obj\Debug\BaiToanBaLo.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\obj\Debug\BaiToanBaLo.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\obj\Debug\BaiToanBaLo.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi04\Buoi04\BaiToanBaLo\obj\Debug\BaiToanBaLo.pdb
