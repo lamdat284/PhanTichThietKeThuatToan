@@ -7,11 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiToanBaLo", "BaiToanBaLo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiToanBalo_CoSoLuong", "BaiToanBalo_CoSoLuong\BaiToanBalo_CoSoLuong.csproj", "{7D8D6262-474B-4BC1-A1E6-3874F4E66B7E}"
 EndProject
+<<<<<<< HEAD
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55BB1BF2-BC50-4210-AB46-48D24EFC417C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+=======
+>>>>>>> 5b498a0fa184f76e203a3243d180d1b1f5fba91b
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
