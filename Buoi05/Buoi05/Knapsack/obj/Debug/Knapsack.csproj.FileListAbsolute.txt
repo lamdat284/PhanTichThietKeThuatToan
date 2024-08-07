@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\bin\Debug\Knapsack.exe.config
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\bin\Debug\Knapsack.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\bin\Debug\Knapsack.pdb
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\obj\Debug\Knapsack.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\obj\Debug\Knapsack.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\obj\Debug\Knapsack.exe
+D:\Hoc Ki He 6.5\PhanTichThietKeThuatToan\Buoi05\Buoi05\Knapsack\obj\Debug\Knapsack.pdb
